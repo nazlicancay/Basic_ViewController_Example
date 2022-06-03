@@ -2,4 +2,4 @@
 Connetcting two View Controller By using Delegate
 
 
-<img src="<img src="https://github.com/nazlicancay/Unity_Shooter_Game/blob/main/movie_001.gif?raw=true" width="350" height="500"  />" width="350" height="500"  />
+![StartPage]([https://github.com/nazlicancay/Unity_Shooter_Game/blob/main/space_Shooter_startPage.png](https://github.com/nazlicancay/Basic_ViewController_Example/blob/main/Ekran%20Resmi%202022-06-03%2014.08.34.png))
